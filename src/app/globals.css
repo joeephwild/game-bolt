@@ -3,3 +3,10 @@
 @tailwind utilities;
 
 
+body {
+  @apply bg-[#0D040C] text-[#ffffff];
+}
+
+.rotate {
+  transform: rotate(6.06deg);
+}
